@@ -23,5 +23,5 @@ will then be available at:
 
 Use these URLs in App Store Connect and the Google Play Console.
 
-> Contact e-mail in the documents is `antonboyko1995@gmail.com` — update it in
+> Contact e-mail in the documents is `support@rahunok.com` — update it in
 > the HTML files if you switch to a dedicated support address.
